@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
