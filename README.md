@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1920-build-array-from-permutation](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [1920-build-array-from-permutation](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
