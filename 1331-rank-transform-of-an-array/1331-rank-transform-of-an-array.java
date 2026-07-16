@@ -1,6 +1,6 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-       int n=arr.length;
+        int n=arr.length;
        int[] sort=arr.clone();
        Arrays.sort(sort);
        HashMap<Integer,Integer> map=new HashMap<>();
@@ -15,6 +15,5 @@ class Solution {
         ans[i]=map.get(arr[i]);
        }
        return ans;
-
     }
 }
