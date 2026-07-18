@@ -4,9 +4,9 @@ class Solution {
         int j=0;
         for(int i=0;i<arr.length;i++){
             if(arr[i]==y){
-                char tem=arr[i];
+                char temp=arr[i];
                 arr[i]=arr[j];
-                arr[j]=tem;
+                arr[j]=temp;
                 j++;
             }
         }
