@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
