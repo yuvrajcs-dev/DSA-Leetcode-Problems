@@ -8,7 +8,7 @@ class Solution {
         }
         return gcd(max,min);
     }
-    public int gcd(int m,int n){
+    public int gcd(int m ,int n){
         if(n==0){
             return m;
         }
