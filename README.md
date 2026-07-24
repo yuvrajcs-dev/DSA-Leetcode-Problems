@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
