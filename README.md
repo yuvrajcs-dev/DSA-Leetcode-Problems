@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |
