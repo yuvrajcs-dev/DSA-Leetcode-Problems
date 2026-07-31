@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
