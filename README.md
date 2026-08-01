@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
