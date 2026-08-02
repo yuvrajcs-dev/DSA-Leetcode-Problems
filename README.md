@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
