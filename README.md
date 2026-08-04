@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
