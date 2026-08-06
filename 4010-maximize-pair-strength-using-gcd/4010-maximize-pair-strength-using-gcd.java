@@ -1,0 +1,24 @@
+class Solution {
+    public long maxPairStrength(int[] nums) {
+        int n=nums.length;
+        long max=Long.MIN_VALUE;
+        for(int i=0;i<n;i++ ){
+            for(int j=i+1;j<n;j++){
+                long a=nums[i];
+                long b=nums[j];
+                long g= gcd(a,b);
+                long strength = (a * b) / (g * g);
+                
+                max=Math.max(max,strength);
+                
+            }
+        }
+        return max;
+    }
+    public long gcd(long a,long b){
+        if(b==0){
+            return a;
+        }
+        return gcd(b,a%b);
+    }
+}
