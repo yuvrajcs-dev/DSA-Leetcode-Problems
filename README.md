@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0643-maximum-average-subarray-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
