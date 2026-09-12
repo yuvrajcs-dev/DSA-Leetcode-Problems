@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
