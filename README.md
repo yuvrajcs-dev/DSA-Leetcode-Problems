@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1927-sum-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [0151-reverse-words-in-a-string](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
 | ------- |
