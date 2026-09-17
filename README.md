@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
