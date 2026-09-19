@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
