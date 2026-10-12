@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2951-find-the-peaks](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
