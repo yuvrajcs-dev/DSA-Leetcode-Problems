@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
