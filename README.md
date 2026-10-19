@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2615-sum-of-distances](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
