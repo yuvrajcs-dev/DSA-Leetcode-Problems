@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0198-house-robber](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yuvrajcs-dev/DSA-Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
